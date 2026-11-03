@@ -325,6 +325,8 @@ if "findings" in st.session_state and st.session_state.images:
                 st.warning("Could not open that photo.")
             if finding is None:
                 pass
+            elif not finding["checked"]:
+                st.warning("Not checked, so not cleared: the Meta Model API could not be reached or no API key is set.")
             elif finding["point"]:
                 grown = tightest_cluster({**points, NEW_POST: finding["point"]})
                 st.write(f"This post names: {finding['place']}")

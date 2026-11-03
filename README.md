@@ -23,10 +23,10 @@ The attacker agent reads the feed in posting order: post 1 alone, then posts 1�
 | Feed | What the attacker concluded |
 |---|---|
 | Post 1 | Nothing |
-| Posts 1–2 | Nothing |
+| Posts 1–2 | A weak guess at central Columbia (confidence 0.65), under the 0.7 bar, so not counted |
 | **Posts 1–3** | **Downtown Columbia, Missouri**, citing posts 1, 2 and 3 together |
 
-That answer is correct. No single post gave it away. The combination did.
+That answer is correct. No single post gave it away, and two posts were not enough to be sure. The third made it.
 
 ## Attacker vs defender
 
@@ -41,7 +41,7 @@ The two agents take turns until the attacker can no longer link the posts:
 
 ![After the match: what stayed, what was blurred, what was hidden](assets/screens/after.jpg)
 
-On the sample, the pattern broke in 3 rounds (32 attacker tool calls). **Privacy cost: 1 post blurred, 4 hidden.** Parks and rock cuts have no sign to blur, so scenery could only be fixed by hiding it. The app reports that cost instead of pretending blur fixes everything.
+On the sample, the pattern broke in 3 rounds (32 attacker tool calls). In the last round the attacker could still read a small window sign in the blurred post and guessed a different town (Fairfield, IA, confidence 0.65), under the bar, so the defender won. **Privacy cost: 1 post blurred, 4 hidden.** Parks and rock cuts have no sign to blur, so scenery could only be fixed by hiding it. The app reports that cost instead of pretending blur fixes everything.
 
 ## How it works
 
@@ -71,13 +71,14 @@ flowchart LR
 
 ## Does it work?
 
-**Place-finding on photos it was never tuned on.** I ran the single-photo check on 40 geotagged, open-licensed Wikimedia Commons photos from Eugene, OR and Burlington, VT. The confidence cut-off was set earlier on a separate set of 60 photos.
+**Place-finding on photos it was never tuned on.** I ran the single-photo check on 40 geotagged, open-licensed Wikimedia Commons photos from Eugene, OR and Burlington, VT. The confidence cut-off was set earlier on a separate set of 60 photos from Columbia MO, Madison WI and Chattanooga TN (`demo/eval_tuning_set.json`); none of the 40 test photos were used for tuning.
 
 | Result | Count |
 |---|---|
 | Photos | 40 |
 | Named a place | 11 |
 | Within 1 km of the true spot | 9 |
+| Named but not found on the map | 1 |
 | More than 25 km off | 1 |
 | Model errors | 2 |
 | Median error, named photos | 163 m |
@@ -113,7 +114,7 @@ Now, when you choose a photo on instagram.com or facebook.com, a panel appears w
 - **"This photo links with posts 1, 2. Together they point to …"**, with the attacker's reasoning, or **"No pattern found"**.
 - **Use a blurred version** blurs the clues with SAM 3.1, swaps the blurred file into the composer, and checks it again. If it still links, the panel says so and offers to remove the photo.
 
-The upload-time check is one Muse Spark pass with hosted web search, so it is fast but less thorough than the full match. The service listens on 127.0.0.1 only, needs the token on every request, keeps the feed in memory, and never logs photos. `extension/test/index.html` is a neutral composer page for trying it without a social account.
+The upload-time check is one Muse Spark pass with hosted web search, so it is fast but less thorough than the full match. The service listens on 127.0.0.1 only, needs the token on every request, keeps the feed in memory, and never logs photos. `extension/test/index.html` is a neutral composer page for trying it without a social account: run `python -m http.server 8766` inside `extension/` and open http://localhost:8766/test/index.html.
 
 ## Safety by design
 
@@ -134,7 +135,7 @@ The upload-time check is one Muse Spark pass with hosted web search, so it is fa
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-echo MODEL_API_KEY=your-meta-model-api-key > .env
+echo "MODEL_API_KEY=your-meta-model-api-key" > .env          # PowerShell: Set-Content .env "MODEL_API_KEY=..." -Encoding utf8
 streamlit run app.py
 ```
 

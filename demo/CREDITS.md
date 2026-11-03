@@ -9,3 +9,7 @@ Each photo was picked because, alone, it shows no place name. Posting order is s
 - post3.jpg: Downtown_Columbia_MO_Street.JPG, by Ironski21, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Downtown_Columbia_MO_Street.JPG
 - post4.jpg: Looking_North_up_College_Avenue_from_Pedestrian_Footbridge,_Columbia,_Missouri_-_panoramio.jpg, by VoyagerMU, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Looking_North_up_College_Avenue_from_Pedestrian_Footbridge,_Columbia,_Missouri_-_panoramio.jpg
 - post5.jpg: Summer_on_the_Katy_Railroad.jpg, by Heath Cajandig, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Summer_on_the_Katy_Railroad.jpg
+
+Modified copies: `match/post3.jpg` and `match/r1_post3.jpg` are post3.jpg with signs blurred by Breadcrumbs (same license, CC BY-SA 3.0, by Ironski21).
+
+Demo video only: the blur example uses Mugs Up in Columbia, Missouri.jpg, by WikiBunny2K1, CC0, https://commons.wikimedia.org/wiki/File:Mugs_Up_in_Columbia,_Missouri.jpg
