@@ -1,0 +1,77 @@
+[
+ {
+  "posts": 1,
+  "level": "hidden",
+  "area": "",
+  "city": "",
+  "confidence": 0.0,
+  "evidence": [],
+  "reasoning": "Post 1 shows only a generic public park lawn with trees, bench, lamp post, and small creek bridge. No readable signs, business names, distinctive landmarks, or other locatable features are visible. With only one generic image and no mappable clues, no public neighborhood or district can be determined as a group. Submitting empty area per weak-evidence rule.",
+  "tools": 1,
+  "timed_out": null,
+  "failed": null
+ },
+ {
+  "posts": 2,
+  "level": "hidden",
+  "area": "",
+  "city": "",
+  "confidence": 0.65,
+  "evidence": [],
+  "reasoning": "Post 1 shows manicured city park with lawn, bench, path and small creek culvert matching Flat Branch Park description of benches along Flat Branch Creek. Post 2 shows leaf-covered trail through limestone rock cut matching MKT Nature and Fitness Trail description of crushed limestone rail-trail through limestone bluffs and rock formations. Mapped MKT Trail and Flat Branch Park 0.2 km apart in downtown Columbia, with Stephens Lake Park 2.4 km away, clustering as a group in central Columbia.",
+  "tools": 8,
+  "timed_out": null,
+  "failed": null
+ },
+ {
+  "posts": 3,
+  "level": "pattern",
+  "area": "Downtown Columbia, The District",
+  "city": "Columbia, Missouri",
+  "confidence": 0.9,
+  "evidence": [
+   1,
+   2,
+   3
+  ],
+  "reasoning": "Post 1 shows a manicured downtown creek park with bench and culvert matching Flat Branch Park along Flat Branch Creek. Post 2 shows an autumn rail-trail through a limestone rock cut matching the MKT Trail. Post 3 shows historic brick storefronts on Broadway matching Downtown Broadway. Mapping places all three public places within 0.7km of each other in central Columbia, pointing as a group to Downtown/The District.",
+  "tools": 8,
+  "timed_out": null,
+  "failed": null
+ },
+ {
+  "posts": 4,
+  "level": "pattern",
+  "area": "The District / Downtown Columbia",
+  "city": "Columbia, Missouri",
+  "confidence": 0.82,
+  "evidence": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "reasoning": "Group clusters on central Columbia, MO. Post 3 shows brick storefronts on Broadway matching Downtown Columbia Broadway in The District. Post 4 shows wide university boulevard with residence halls matching University of Missouri campus ~1.7km from downtown. Post 1 park with bench/stream/trail matches Cosmo Park, mapped ~4.4km from downtown. Post 2 rock-cut fall trail matches Katy Trail rock cut west of Columbia, connected to city via trail system, mapped ~20.4km from downtown. Together public places converge on The District/Downtown Columbia area.",
+  "tools": 13,
+  "timed_out": null,
+  "failed": null
+ },
+ {
+  "posts": 5,
+  "level": "pattern",
+  "area": "Downtown Columbia / The District and central MKT Trail area",
+  "city": "Columbia, Missouri",
+  "confidence": 0.88,
+  "evidence": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "reasoning": "Posts as a group cluster in central Columbia: Post 3 matches Downtown Broadway storefronts in The District, Post 4 matches wide Stadium Blvd by University of Missouri housing, Posts 2 and 5 match MKT Trail rock cut and brick tunnel under Locust St to Flat Branch Park, Post 1 matches central city park like Stephens Lake / Flat Branch Park. Map lookups place Flat Branch Park, MKT Trail, Downtown Broadway, University of Missouri, and Stephens Lake Park all within ~0.7-2.4 km, confirming a single general public district.",
+  "tools": 13,
+  "timed_out": null,
+  "failed": null
+ }
+]

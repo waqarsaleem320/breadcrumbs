@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Breadcrumbs</title>
+<style>
+  body { width: 320px; margin: 0; font: 14px/1.5 system-ui, sans-serif; color: #13243a; background: #eef1ee; }
+  header { display: flex; align-items: center; gap: 10px; padding: 14px 16px; background: #13243a; color: #fff; }
+  header img { width: 26px; height: 26px; border-radius: 6px; } header b { font-size: 16px; }
+  main { padding: 14px 16px 18px; }
+  p { margin: 0 0 10px; color: #56677a; }
+  label { display: block; font-weight: 600; margin: 12px 0 4px; }
+  input[type=text] { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px solid #d3dbd7; border-radius: 8px; font: inherit; }
+  button { margin-top: 10px; width: 100%; padding: 9px; border-radius: 9px; border: 0; background: #13243a; color: #fff;
+    font: 600 14px system-ui, sans-serif; cursor: pointer; }
+  button:focus-visible, input:focus-visible { outline: 3px solid #1d7a72; outline-offset: 2px; }
+  #status { margin-top: 14px; padding: 10px 12px; border-radius: 9px; background: #fff; border: 1px solid #d3dbd7; }
+  .good { color: #2c8459; } .bad { color: #b3261e; }
+</style>
+</head>
+<body>
+<header><img src="icon.png" alt=""><b>Breadcrumbs</b></header>
+<main>
+  <p>When you pick a photo to post on Instagram or Facebook, Breadcrumbs checks whether it links with your earlier posts.</p>
+  <label for="token">Check service token</label>
+  <input id="token" type="text" placeholder="Shown when the service starts" autocomplete="off">
+  <button id="save">Save and connect</button>
+  <label for="zip">Your feed</label>
+  <p>Upload your Instagram or Facebook data export (ZIP). It stays in memory on your computer.</p>
+  <input id="zip" type="file" accept=".zip">
+  <div id="status" role="status">Not connected yet.</div>
+</main>
+<script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,898 @@
+{
+ "all": {
+  "photos": 60,
+  "failed": 1,
+  "named": 23,
+  "placed_on_map": 15,
+  "within_1km": 11,
+  "within_5km": 11,
+  "over_25km": 4,
+  "median_error_m": 134
+ },
+ "rows": [
+  {
+   "title": "File:RestorationOfTheJWBooneHouse.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/RestorationOfTheJWBooneHouse.JPG/1280px-RestorationOfTheJWBooneHouse.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.952222222222,
+    -92.3325
+   ],
+   "place": "Blind Boone Home, Columbia, Missouri",
+   "confidence": 0.95,
+   "clue": "sign reading John Williams' Blind Boone Home City of Columbia Restoration",
+   "city": "Columbia MO",
+   "point": [
+    38.9522956,
+    -92.3326706
+   ],
+   "error_m": 17
+  },
+  {
+   "title": "File:FirstChristianChurchColumbiaMissouri.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/FirstChristianChurchColumbiaMissouri.JPG/1280px-FirstChristianChurchColumbiaMissouri.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.952777777778,
+    -92.326666666667
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "illegible brown sign on stone church wall",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Sacred Heart Catholic Church (Columbia, MO) - exterior, front.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sacred_Heart_Catholic_Church_%28Columbia%2C_MO%29_-_exterior%2C_front.jpg/1280px-Sacred_Heart_Catholic_Church_%28Columbia%2C_MO%29_-_exterior%2C_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.949633333333,
+    -92.322949166667
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "stone twin-tower church facade with central rose window and no legible name",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Columbia hall Stephens college.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Columbia_hall_Stephens_college.jpg/1280px-Columbia_hall_Stephens_college.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.951,
+    -92.3235
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "large red brick building with white windows",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Ballenger building CoMo.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ballenger_building_CoMo.jpg/1280px-Ballenger_building_CoMo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.9505,
+    -92.3275
+   ],
+   "place": "Tiger Hotel, Columbia, Missouri",
+   "confidence": 0.9,
+   "clue": "TIGER rooftop sign on brick hotel",
+   "city": "Columbia MO",
+   "point": [
+    38.9507968,
+    -92.3289535
+   ],
+   "error_m": 130
+  },
+  {
+   "title": "File:Jesse Hall and The Columns on the Francis Quadrangle.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jesse_Hall_and_The_Columns_on_the_Francis_Quadrangle.jpg/1280px-Jesse_Hall_and_The_Columns_on_the_Francis_Quadrangle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.946111,
+    -92.328889
+   ],
+   "place": "The Columns, University of Missouri, Columbia, Missouri",
+   "confidence": 0.96,
+   "clue": "six tall stone Ionic columns beside domed red-brick building",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Lowry Mall and Memorial Tower, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lowry_Mall_and_Memorial_Tower%2C_University_of_Missouri_-_panoramio.jpg/1280px-Lowry_Mall_and_Memorial_Tower%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.94502,
+    -92.326712
+   ],
+   "place": "Memorial Union, University of Missouri, Columbia, MO",
+   "confidence": 0.9,
+   "clue": "Gothic clock tower behind plaza with M Student Success Center banners",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Jesse Hall and the Columns, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jesse_Hall_and_the_Columns%2C_University_of_Missouri_-_panoramio.jpg/1280px-Jesse_Hall_and_the_Columns%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.946477,
+    -92.328959
+   ],
+   "place": "The Columns, University of Missouri, Columbia, Missouri",
+   "confidence": 0.96,
+   "clue": "row of six Ionic columns with domed Jesse Hall behind",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:The Tiger at Mizzou, with Jesse Hall in the distance - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Tiger_at_Mizzou%2C_with_Jesse_Hall_in_the_distance_-_panoramio.jpg/1280px-The_Tiger_at_Mizzou%2C_with_Jesse_Hall_in_the_distance_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.942463,
+    -92.328863
+   ],
+   "place": "University of Missouri, Columbia, Missouri",
+   "confidence": 0.9,
+   "clue": "white domed tower of Jesse Hall in background",
+   "city": "Columbia MO",
+   "point": [
+    38.9364147,
+    -92.329703
+   ],
+   "error_m": 675
+  },
+  {
+   "title": "File:Memorial Union Tower, University of MIssouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Memorial_Union_Tower%2C_University_of_MIssouri_-_panoramio.jpg/1280px-Memorial_Union_Tower%2C_University_of_MIssouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.944988,
+    -92.326771
+   ],
+   "place": "Memorial Union Tower, Columbia, Missouri",
+   "confidence": 0.9,
+   "clue": "tall Gothic limestone clock tower with twin spires",
+   "city": "Columbia MO",
+   "point": [
+    38.9450184,
+    -92.3253026
+   ],
+   "error_m": 127
+  },
+  {
+   "title": "File:Jesse Hall, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Jesse_Hall%2C_University_of_Missouri_-_panoramio.jpg/1280px-Jesse_Hall%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.946273,
+    -92.328766
+   ],
+   "place": "Jesse Hall, University of Missouri, Columbia, Missouri",
+   "confidence": 0.95,
+   "clue": "red-brick domed administration building with white columns",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Tiger Hotel Entrance, Columbia, Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tiger_Hotel_Entrance%2C_Columbia%2C_Missouri_-_panoramio.jpg/1280px-Tiger_Hotel_Entrance%2C_Columbia%2C_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.95094,
+    -92.328699
+   ],
+   "place": "Tiger Hotel, Columbia, Missouri",
+   "confidence": 0.9,
+   "clue": "red TIGER marquee sign",
+   "city": "Columbia MO",
+   "point": [
+    38.9507968,
+    -92.3289535
+   ],
+   "error_m": 27
+  },
+  {
+   "title": "File:Building the 5th and Walnut parking garage - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Building_the_5th_and_Walnut_parking_garage_-_panoramio.jpg/1280px-Building_the_5th_and_Walnut_parking_garage_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.952643,
+    -92.331793
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "REBAR 314-382-6900 on construction trailer",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Parking Lot AV-14, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Parking_Lot_AV-14%2C_University_of_Missouri_-_panoramio.jpg/1280px-Parking_Lot_AV-14%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.935507,
+    -92.317117
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Pedestrian Bridge Over College Avenue, Columbia, MO - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pedestrian_Bridge_Over_College_Avenue%2C_Columbia%2C_MO_-_panoramio.jpg/1280px-Pedestrian_Bridge_Over_College_Avenue%2C_Columbia%2C_MO_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.940277,
+    -92.321919
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "glass enclosed pedestrian bridge over wide road with no readable signs",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Bingham Commons, Schurz and Hatch Halls, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bingham_Commons%2C_Schurz_and_Hatch_Halls%2C_University_of_Missouri_-_panoramio.jpg/1280px-Bingham_Commons%2C_Schurz_and_Hatch_Halls%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.940781,
+    -92.321259
+   ],
+   "place": "University of Missouri, Columbia, Missouri",
+   "confidence": 0.9,
+   "clue": "wellness.missouri.edu text in upper window",
+   "city": "Columbia MO",
+   "point": [
+    38.9364147,
+    -92.329703
+   ],
+   "error_m": 875
+  },
+  {
+   "title": "File:Statue between College Avenue Dorm and Hatch and Schurz Halls, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Statue_between_College_Avenue_Dorm_and_Hatch_and_Schurz_Halls%2C_University_of_Missouri_-_panoramio.jpg/1280px-Statue_between_College_Avenue_Dorm_and_Hatch_and_Schurz_Halls%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.940982,
+    -92.320744
+   ],
+   "place": "",
+   "confidence": 0.15,
+   "clue": "silhouetted abstract metal sculpture against blue sky",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Statue between College Avenue Dorm and Hatch and Schurz Halls 2, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Statue_between_College_Avenue_Dorm_and_Hatch_and_Schurz_Halls_2%2C_University_of_Missouri_-_panoramio.jpg/1280px-Statue_between_College_Avenue_Dorm_and_Hatch_and_Schurz_Halls_2%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.941028,
+    -92.320637
+   ],
+   "place": "",
+   "confidence": 0.1,
+   "clue": "small dark sign with building name in background",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Looking West across Pedestrian Footbridge over College Avenue, University of Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Looking_West_across_Pedestrian_Footbridge_over_College_Avenue%2C_University_of_Missouri_-_panoramio.jpg/1280px-Looking_West_across_Pedestrian_Footbridge_over_College_Avenue%2C_University_of_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.940673,
+    -92.321554
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "curved metal canopy over pedestrian bridge with no legible text",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Looking North up College Avenue from Pedestrian Footbridge, Columbia, Missouri - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Looking_North_up_College_Avenue_from_Pedestrian_Footbridge%2C_Columbia%2C_Missouri_-_panoramio.jpg/1280px-Looking_North_up_College_Avenue_from_Pedestrian_Footbridge%2C_Columbia%2C_Missouri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    38.940694,
+    -92.321935
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "small white traffic sign on right sidewalk with no location name",
+   "city": "Columbia MO",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Bascom Hall - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bascom_Hall_-_panoramio.jpg/1280px-Bascom_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074921,
+    -89.401768
+   ],
+   "place": "Bascom Hall, Madison, Wisconsin",
+   "confidence": 0.95,
+   "clue": "BASCOM HALL inscription and W logos on facade",
+   "city": "Madison WI",
+   "point": [
+    43.0753714,
+    -89.4043607
+   ],
+   "error_m": 216
+  },
+  {
+   "title": "File:Vilas Communication Hall - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Vilas_Communication_Hall_-_panoramio.jpg/1280px-Vilas_Communication_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.072558,
+    -89.400547
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no legible signs logos or landmarks only generic yellow brick building",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Grainger Hall - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Grainger_Hall_-_panoramio.jpg/1280px-Grainger_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.07338,
+    -89.402206
+   ],
+   "place": "Wisconsin School of Business Grainger Hall, Madison, Wisconsin",
+   "confidence": 0.95,
+   "clue": "WISCONSIN SCHOOL OF BUSINESS Grainger Hall sign on building",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Sellery Residence Hall - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Sellery_Residence_Hall_-_panoramio.jpg/1280px-Sellery_Residence_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.072266,
+    -89.400795
+   ],
+   "place": "Sellery Hall, Madison, WI",
+   "confidence": 0.9,
+   "clue": "SELLERY HALL sign",
+   "city": "Madison WI",
+   "point": [
+    43.071604,
+    -89.4001651
+   ],
+   "error_m": 89
+  },
+  {
+   "title": "File:Grainger Hall - Wisconsin School of Business - panoramio.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Grainger_Hall_-_Wisconsin_School_of_Business_-_panoramio.jpg/1280px-Grainger_Hall_-_Wisconsin_School_of_Business_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.073503,
+    -89.400666
+   ],
+   "place": "Wisconsin School of Business, Madison, WI",
+   "confidence": 0.98,
+   "clue": "WISCONSIN SCHOOL OF BUSINESS",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UW Music Hall 10-12-2011 091 (6791235790).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/UW_Music_Hall_10-12-2011_091_%286791235790%29.jpg/1280px-UW_Music_Hall_10-12-2011_091_%286791235790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074844,
+    -89.401459
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "historic stone building with clock tower",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:University of Wisconsin\u2013Madison August 2022 58 (Vilas Hall).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/University_of_Wisconsin%E2%80%93Madison_August_2022_58_%28Vilas_Hall%29.jpg/1280px-University_of_Wisconsin%E2%80%93Madison_August_2022_58_%28Vilas_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.073380555556,
+    -89.400436111111
+   ],
+   "place": "Vilas Communication Hall, Madison, WI",
+   "confidence": 0.9,
+   "clue": "partial VILAS COMM sign in lower right",
+   "city": "Madison WI",
+   "point": [
+    43.0726742,
+    -89.3998216
+   ],
+   "error_m": 93
+  },
+  {
+   "title": "File:University of Wisconsin\u2013Madison August 2022 59 (Mosse Humanities Building courtyard).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/University_of_Wisconsin%E2%80%93Madison_August_2022_59_%28Mosse_Humanities_Building_courtyard%29.jpg/1280px-University_of_Wisconsin%E2%80%93Madison_August_2022_59_%28Mosse_Humanities_Building_courtyard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074252777778,
+    -89.40005
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "stone courtyard with stairs benches and trees with no visible signs or logos",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:University of Wisconsin\u2013Madison August 2022 56 (Grainger Hall).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/University_of_Wisconsin%E2%80%93Madison_August_2022_56_%28Grainger_Hall%29.jpg/1280px-University_of_Wisconsin%E2%80%93Madison_August_2022_56_%28Grainger_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.073383333333,
+    -89.401386111111
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "beige building with glass tower",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Music Hall at the University of Wisconsin-Madison.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Music_Hall_at_the_University_of_Wisconsin-Madison.jpg/1280px-Music_Hall_at_the_University_of_Wisconsin-Madison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074364,
+    -89.400811
+   ],
+   "place": "Hamline Church, Saint Paul, Minnesota",
+   "confidence": 0.78,
+   "clue": "historic sandstone church with corner clock tower and pyramidal steeple",
+   "city": "Madison WI",
+   "point": [
+    44.9637589,
+    -93.1646407
+   ],
+   "error_m": 366393
+  },
+  {
+   "title": "File:Grainger Hall.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Grainger_Hall.jpg/1280px-Grainger_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.073253,
+    -89.401803
+   ],
+   "place": "Grainger Hall, Wisconsin School of Business, Madison, WI",
+   "confidence": 0.96,
+   "clue": "WISCONSIN SCHOOL OF BUSINESS Grainger Hall",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54303343038.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303343038.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303343038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074753,
+    -89.400839
+   ],
+   "place": "Mosse Humanities Building, Madison, Wisconsin",
+   "confidence": 0.88,
+   "clue": "large brutalist limestone building with green rooftop monitors",
+   "city": "Madison WI",
+   "point": [
+    43.0741965,
+    -89.4000514
+   ],
+   "error_m": 89
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54303333569.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303333569.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303333569.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074517,
+    -89.400186
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "sunken stone courtyard beneath concrete columns with no visible sign or logo",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Science Hall, University of Wisconsin, Park Street and Observatory Drive, Madison, WI - 54303342598.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Science_Hall%2C_University_of_Wisconsin%2C_Park_Street_and_Observatory_Drive%2C_Madison%2C_WI_-_54303342598.jpg/1280px-Science_Hall%2C_University_of_Wisconsin%2C_Park_Street_and_Observatory_Drive%2C_Madison%2C_WI_-_54303342598.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074733,
+    -89.400558
+   ],
+   "place": "Science Hall, Madison, Wisconsin",
+   "confidence": 0.92,
+   "clue": "SCIENCE HALL lettering on red brick tower",
+   "city": "Madison WI",
+   "point": [
+    43.0758799,
+    -89.4010609
+   ],
+   "error_m": 134
+  },
+  {
+   "title": "File:State Historical Society Library, University of Wisconsin, State Street and Campus Mall, Madison, WI - 54303334809.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/State_Historical_Society_Library%2C_University_of_Wisconsin%2C_State_Street_and_Campus_Mall%2C_Madison%2C_WI_-_54303334809.jpg/1280px-State_Historical_Society_Library%2C_University_of_Wisconsin%2C_State_Street_and_Campus_Mall%2C_Madison%2C_WI_-_54303334809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074742,
+    -89.400733
+   ],
+   "place": "Wisconsin Historical Museum, Madison, Wisconsin",
+   "confidence": 0.85,
+   "clue": "blue Wisconsin Historical Museum sign at base of building",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:State Historical Society Library, University of Wisconsin, State Street and Campus Mall, Madison, WI - 54303528545.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/State_Historical_Society_Library%2C_University_of_Wisconsin%2C_State_Street_and_Campus_Mall%2C_Madison%2C_WI_-_54303528545.jpg/1280px-State_Historical_Society_Library%2C_University_of_Wisconsin%2C_State_Street_and_Campus_Mall%2C_Madison%2C_WI_-_54303528545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.07475,
+    -89.400711
+   ],
+   "place": "University of Michigan Museum of Art, Ann Arbor, Michigan",
+   "confidence": 0.82,
+   "clue": "large limestone neoclassical museum building on corner",
+   "city": "Madison WI",
+   "point": [
+    42.2755914,
+    -83.7398377
+   ],
+   "error_m": 470413
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54302223277.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54302223277.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54302223277.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074647,
+    -89.400186
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "plain concrete walkway with no signs or logos",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54302223572.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54302223572.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54302223572.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074394,
+    -89.400169
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no readable sign or logo",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54303526755.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303526755.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303526755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074397,
+    -89.400169
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "brutalist concrete building with no visible sign",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:George L. Mosse Humanities Building, University of Wisconsin, Park Street and State Street, Madison, WI - 54303333559.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303333559.jpg/1280px-George_L._Mosse_Humanities_Building%2C_University_of_Wisconsin%2C_Park_Street_and_State_Street%2C_Madison%2C_WI_-_54303333559.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    43.074428,
+    -89.400186
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "elevated beige concrete building on columns over stone courtyard with no readable sign",
+   "city": "Madison WI",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Old Crow Medicine Show Tivoli Theatre Chattanooga TN May 2010.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Old_Crow_Medicine_Show_Tivoli_Theatre_Chattanooga_TN_May_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "true": [
+    35.048168,
+    -85.310365
+   ],
+   "place": "",
+   "error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/8/84/Old_Crow_Medi",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:First Congregational Church Chattanooga Tennessee.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/First_Congregational_Church_Chattanooga_Tennessee.JPG/1280px-First_Congregational_Church_Chattanooga_Tennessee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.045,
+    -85.307222
+   ],
+   "place": "The Historic 401, Atlanta, Georgia",
+   "confidence": 0.85,
+   "clue": "green ML KING street sign",
+   "city": "Chattanooga TN",
+   "point": [
+    33.7783478,
+    -84.3866813
+   ],
+   "error_m": 163933
+  },
+  {
+   "title": "File:Lake Winnepesaukah Amusement Park, Rossville, Georgia.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Lake_Winnepesaukah_Amusement_Park%2C_Rossville%2C_Georgia.jpg/1280px-Lake_Winnepesaukah_Amusement_Park%2C_Rossville%2C_Georgia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.045666,
+    -85.309667
+   ],
+   "place": "Canobie Lake Park, Salem, New Hampshire",
+   "confidence": 0.7,
+   "clue": "partially visible illuminated 'Pi' Pirate sign on swinging ship ride over water",
+   "city": "Chattanooga TN",
+   "point": [
+    42.7941945,
+    -71.2482031
+   ],
+   "error_m": 1488091
+  },
+  {
+   "title": "File:Noah Gundersen Camp House.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Noah_Gundersen_Camp_House.jpg/1280px-Noah_Gundersen_Camp_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.0454166,
+    -85.3091813
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "plain black background with no signs or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343310185).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/UTC_Library_UTC_Library_Groundbreaking_%284343310185%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343310185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "shovels in dirt with no signs or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343308611).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/UTC_Library_UTC_Library_Groundbreaking_%284343308611%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343308611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "brick building behind trees",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344044328).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/UTC_Library_UTC_Library_Groundbreaking_%284344044328%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344044328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no visible signs logos or landmarks only dirt mound and shovels",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344039978).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/UTC_Library_UTC_Library_Groundbreaking_%284344039978%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344039978%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no visible sign, logo, or landmark",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343305439).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/UTC_Library_UTC_Library_Groundbreaking_%284343305439%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343305439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no visible signs logos or landmarks only dirt pile and grassy hill",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344038154).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/UTC_Library_UTC_Library_Groundbreaking_%284344038154%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344038154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "dirt pile with grassy hill and no signs logos or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343302691).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/UTC_Library_UTC_Library_Groundbreaking_%284343302691%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343302691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy hill with no signage",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343299831).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/UTC_Library_UTC_Library_Groundbreaking_%284343299831%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343299831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy hillside with no signs, logos, or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344035872).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/UTC_Library_UTC_Library_Groundbreaking_%284344035872%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344035872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy slope with no signs or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343297995).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/UTC_Library_UTC_Library_Groundbreaking_%284343297995%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343297995%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "nondescript dirt pile in parking lot with grassy slope and no signs or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344033222).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/UTC_Library_UTC_Library_Groundbreaking_%284344033222%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344033222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy hill with no signs or logos",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343300463).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/UTC_Library_UTC_Library_Groundbreaking_%284343300463%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343300463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no signs, logos, or landmarks visible, only a dirt pile and grassy hill",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4344037574).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UTC_Library_UTC_Library_Groundbreaking_%284344037574%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284344037574%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no visible sign, logo, or landmark",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343822342).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/UTC_Library_UTC_Library_Groundbreaking_%284343822342%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343822342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no visible signs, logos, or landmarks",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343821310).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/UTC_Library_UTC_Library_Groundbreaking_%284343821310%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343821310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy hill with no signs or logos",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:UTC Library UTC Library Groundbreaking (4343818788).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/UTC_Library_UTC_Library_Groundbreaking_%284343818788%29.jpg/1280px-UTC_Library_UTC_Library_Groundbreaking_%284343818788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    35.047341,
+    -85.30026
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "grassy slope with no signs or text",
+   "city": "Chattanooga TN",
+   "point": null,
+   "error_m": null
+  }
+ ]
+}

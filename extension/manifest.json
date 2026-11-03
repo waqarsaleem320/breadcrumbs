@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Breadcrumbs",
+  "version": "0.1.0",
+  "description": "Before you post a photo, see whether it links with your earlier posts to reveal where you are.",
+  "icons": { "128": "icon.png" },
+  "action": { "default_popup": "popup.html", "default_icon": "icon.png" },
+  "background": { "service_worker": "background.js" },
+  "permissions": ["storage"],
+  "host_permissions": ["http://127.0.0.1:8765/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*", "https://www.facebook.com/*", "http://localhost:8766/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}

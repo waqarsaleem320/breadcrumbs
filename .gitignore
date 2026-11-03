@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+.venv/
+.ruff_cache/
+.streamlit/secrets.toml
+spike/photos/
+spike/result.txt
+*.log
+*.mp4

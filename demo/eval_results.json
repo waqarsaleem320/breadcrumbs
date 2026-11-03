@@ -1,0 +1,602 @@
+{
+ "all": {
+  "photos": 40,
+  "failed": 2,
+  "named": 11,
+  "placed_on_map": 10,
+  "within_1km": 9,
+  "within_5km": 9,
+  "over_25km": 1,
+  "median_error_m": 163
+ },
+ "rows": [
+  {
+   "title": "File:Wayne Morse Free Speech Plaza-2.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Wayne_Morse_Free_Speech_Plaza-2.jpg/1280px-Wayne_Morse_Free_Speech_Plaza-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.051223,
+    -123.090972
+   ],
+   "place": "",
+   "confidence": 0.75,
+   "clue": "bronze statue of suited man pointing on pedestal inscribed with U.S. and integrity text",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Wayne Morse Free Speech Plaza.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Wayne_Morse_Free_Speech_Plaza.jpg/1280px-Wayne_Morse_Free_Speech_Plaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.051146,
+    -123.090929
+   ],
+   "place": "",
+   "confidence": 0.8,
+   "clue": "LANE COUNTY sign in background",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-9.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eugene_City_Hall-9.JPG/1280px-Eugene_City_Hall-9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "",
+   "confidence": 0.85,
+   "clue": "round rooftop council chamber on modern glass town hall",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-10.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Eugene_City_Hall-10.JPG/1280px-Eugene_City_Hall-10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "",
+   "confidence": 0.85,
+   "clue": "modernist glass chapel with circular upper drum over reflecting pool",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-3.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Eugene_City_Hall-3.JPG/1280px-Eugene_City_Hall-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "Eugene City Hall, Eugene, Oregon",
+   "confidence": 0.99,
+   "clue": "EUGENE CITY HALL",
+   "city": "Eugene OR",
+   "point": [
+    44.0549912,
+    -123.0847909
+   ],
+   "error_m": 507
+  },
+  {
+   "title": "File:Eugene City Hall-4.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Eugene_City_Hall-4.JPG/1280px-Eugene_City_Hall-4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "fenced walkway with benches with no readable sign or logo",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-11.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Eugene_City_Hall-11.jpg/1280px-Eugene_City_Hall-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "modernist building with cylindrical upper level and glass walls",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-12.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Eugene_City_Hall-12.jpg/1280px-Eugene_City_Hall-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05152,
+    -123.088928
+   ],
+   "place": "",
+   "confidence": 0.25,
+   "clue": "Council Chamber glass entrance doors",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-14.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Eugene_City_Hall-14.jpg/1280px-Eugene_City_Hall-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "Eugene City Hall, Eugene, Oregon",
+   "confidence": 0.98,
+   "clue": "EUGENE CITY HALL lettering above entrance",
+   "city": "Eugene OR",
+   "point": [
+    44.0549912,
+    -123.0847909
+   ],
+   "error_m": 509
+  },
+  {
+   "title": "File:Eugene City Hall-16.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Eugene_City_Hall-16.jpg/1280px-Eugene_City_Hall-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "orange and white barricade marked PW with no location name",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-15.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Eugene_City_Hall-15.jpg/1280px-Eugene_City_Hall-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.75,
+   "clue": "EUGENE CODE text on restricted parking sign",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-18.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Eugene_City_Hall-18.jpg/1280px-Eugene_City_Hall-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "weathered white slats with peeling red beams",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-20.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Eugene_City_Hall-20.jpg/1280px-Eugene_City_Hall-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "Eugene City Hall, Eugene, Oregon",
+   "confidence": 0.95,
+   "clue": "City Hall Rebuild banner with www.eugene-or.gov/cityhallplanning",
+   "city": "Eugene OR",
+   "point": [
+    44.0549912,
+    -123.0847909
+   ],
+   "error_m": 509
+  },
+  {
+   "title": "File:Eugene City Hall-21.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Eugene_City_Hall-21.jpg/1280px-Eugene_City_Hall-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.2,
+   "clue": "partial GE logo on side of building",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-26.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Eugene_City_Hall-26.jpg/1280px-Eugene_City_Hall-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "no-parking sign with red arrow on pillar",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-27.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Eugene_City_Hall-27.jpg/1280px-Eugene_City_Hall-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "glass block wall under concrete overhang with no signage",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-28.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Eugene_City_Hall-28.jpg/1280px-Eugene_City_Hall-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "weathered red wooden beam with peeling paint and wasp nest",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-30.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Eugene_City_Hall-30.jpg/1280px-Eugene_City_Hall-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.05157,
+    -123.08903
+   ],
+   "place": "",
+   "confidence": 0.78,
+   "clue": "blue pedestrian bridge with CLEARANCE 13 FT 0 IN sign",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-36.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Eugene_City_Hall-36.jpg/1280px-Eugene_City_Hall-36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.051484,
+    -123.088954
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "small unreadable blue sign on pillar",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Eugene City Hall-34.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Eugene_City_Hall-34.jpg/1280px-Eugene_City_Hall-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.051484,
+    -123.088954
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "mid-century building with round upper story and no readable sign",
+   "city": "Eugene OR",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:'City Hall of Burlington' by Tania Dey.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%27City_Hall_of_Burlington%27_by_Tania_Dey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "true": [
+    44.476389,
+    -73.213611
+   ],
+   "place": "",
+   "error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/6/6a/%27City_Hall_",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:'First Methodist Church of Burlington' by Tania Dey.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/%27First_Methodist_Church_of_Burlington%27_by_Tania_Dey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "true": [
+    44.475833,
+    -73.211111
+   ],
+   "place": "",
+   "error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/c/c7/%27First_Meth",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Follett House Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Follett_House_Burlington_Vermont.jpg/1280px-Follett_House_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.476677,
+    -73.21799
+   ],
+   "place": "Lanier Mansion, Madison, Indiana",
+   "confidence": 0.9,
+   "clue": "white two-story Greek Revival mansion with six Ionic columns and pediment",
+   "city": "Burlington VT",
+   "point": [
+    38.7352867,
+    -85.3859095
+   ],
+   "error_m": 1194180
+  },
+  {
+   "title": "File:First Congregational Church Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/First_Congregational_Church_Burlington_Vermont.jpg/1280px-First_Congregational_Church_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.479293,
+    -73.211275
+   ],
+   "place": "First Congregational Church, Burlington, Vermont",
+   "confidence": 0.9,
+   "clue": "First Congregational Church sign Organized 1809",
+   "city": "Burlington VT",
+   "point": [
+    44.4795529,
+    -73.2102859
+   ],
+   "error_m": 83
+  },
+  {
+   "title": "File:Central Fire Station Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Central_Fire_Station_Burlington_Vermont.jpg/1280px-Central_Fire_Station_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.476436,
+    -73.210971
+   ],
+   "place": "Central Fire Station, Burlington, Vermont",
+   "confidence": 0.9,
+   "clue": "CENTRAL FIRE STATION",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:110 Main Street Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/110_Main_Street_Burlington_Vermont.jpg/1280px-110_Main_Street_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.475766,
+    -73.214656
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "red brick building with no legible signage",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:95 College Street Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/95_College_Street_Burlington_Vermont.jpg/1280px-95_College_Street_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.476982,
+    -73.216329
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "95 COLLEGE STREET",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:139 Bank Street Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/139_Bank_Street_Burlington_Vermont.jpg/1280px-139_Bank_Street_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.477834,
+    -73.214067
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "green two-story corner building with turret bay and no legible public sign",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Church Street Marketplace looking south from Bank Street.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Church_Street_Marketplace_looking_south_from_Bank_Street.jpg/1280px-Church_Street_Marketplace_looking_south_from_Bank_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.47819,
+    -73.212723
+   ],
+   "place": "",
+   "confidence": 0.85,
+   "clue": "nika bold mediterranean flavors & wine bar sidewalk sign",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:City Hall Burlington Vermont from southeast on Main Street.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/City_Hall_Burlington_Vermont_from_southeast_on_Main_Street.jpg/1280px-City_Hall_Burlington_Vermont_from_southeast_on_Main_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.475969,
+    -73.212387
+   ],
+   "place": "Burlington City Hall, Burlington, Vermont",
+   "confidence": 0.9,
+   "clue": "brick building with white clock tower and gold dome",
+   "city": "Burlington VT",
+   "point": [
+    44.4761767,
+    -73.2128553
+   ],
+   "error_m": 44
+  },
+  {
+   "title": "File:Judge Edward J. Costello Courthouse Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Judge_Edward_J._Costello_Courthouse_Burlington_Vermont.jpg/1280px-Judge_Edward_J._Costello_Courthouse_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.479161,
+    -73.216611
+   ],
+   "place": "",
+   "confidence": 0.62,
+   "clue": "brick building with dual clock tower",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Fletcher Free Library Burlington Vermont entrance.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fletcher_Free_Library_Burlington_Vermont_entrance.jpg/1280px-Fletcher_Free_Library_Burlington_Vermont_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.47711,
+    -73.210526
+   ],
+   "place": "",
+   "confidence": 0.15,
+   "clue": "LIBRARY carved stone above entrance",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Unitarian Church Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Unitarian_Church_Burlington_Vermont.jpg/1280px-Unitarian_Church_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.4808,
+    -73.212561
+   ],
+   "place": "",
+   "confidence": 0.2,
+   "clue": "red brick church with clock tower and white steeple",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:82-84 Church Street Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/82-84_Church_Street_Burlington_Vermont.jpg/1280px-82-84_Church_Street_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.478002,
+    -73.212647
+   ],
+   "place": "",
+   "confidence": 0.0,
+   "clue": "BODY SHOP on glass canopy",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:95-97 Church Street Burlington Vermont.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/95-97_Church_Street_Burlington_Vermont.jpg/1280px-95-97_Church_Street_Burlington_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.477414,
+    -73.212573
+   ],
+   "place": "Garcia's Tobacco Shop, Burlington, Vermont",
+   "confidence": 0.9,
+   "clue": "Garcia's Tobacco Shop sign above storefront",
+   "city": "Burlington VT",
+   "point": [
+    44.4776795,
+    -73.21277
+   ],
+   "error_m": 33
+  },
+  {
+   "title": "File:Church Street, Burlington, Vermont United States - panoramio (2).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%282%29.jpg/1280px-Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.480279,
+    -73.21274
+   ],
+   "place": "",
+   "confidence": 0.85,
+   "clue": "white church steeple at end of lighted pedestrian mall",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Church Street, Burlington, Vermont United States - panoramio (4).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%284%29.jpg/1280px-Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.480264,
+    -73.212676
+   ],
+   "place": "Church Street Marketplace, Burlington, Vermont",
+   "confidence": 0.92,
+   "clue": "white steeple church with clock at end of lighted pedestrian mall",
+   "city": "Burlington VT",
+   "point": [
+    44.4786968,
+    -73.2126728
+   ],
+   "error_m": 174
+  },
+  {
+   "title": "File:Church Street, Burlington, Vermont United States - panoramio (9).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%289%29.jpg/1280px-Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.480065,
+    -73.212612
+   ],
+   "place": "Church Street Marketplace, Burlington, Vermont",
+   "confidence": 0.9,
+   "clue": "brick clock tower church with tall steeple at end of lit pedestrian street",
+   "city": "Burlington VT",
+   "point": [
+    44.4786968,
+    -73.2126728
+   ],
+   "error_m": 152
+  },
+  {
+   "title": "File:Church Street, Burlington, Vermont United States - panoramio (11).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%2811%29.jpg/1280px-Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.480034,
+    -73.212698
+   ],
+   "place": "",
+   "confidence": 0.2,
+   "clue": "brick pedestrian mall lined with trees wrapped in white lights",
+   "city": "Burlington VT",
+   "point": null,
+   "error_m": null
+  },
+  {
+   "title": "File:Church Street, Burlington, Vermont United States - panoramio (14).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%2814%29.jpg/1280px-Church_Street%2C_Burlington%2C_Vermont_United_States_-_panoramio_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "true": [
+    44.479912,
+    -73.21259
+   ],
+   "place": "Church Street Marketplace, Burlington, Vermont",
+   "confidence": 0.92,
+   "clue": "historic brick church with clock and white steeple at end of brick pedestrian mall",
+   "city": "Burlington VT",
+   "point": [
+    44.4786968,
+    -73.2126728
+   ],
+   "error_m": 135
+  }
+ ]
+}

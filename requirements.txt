@@ -1,0 +1,7 @@
+openai==2.30.0
+requests==2.34.2
+streamlit==1.66.1
+pydeck==0.9.3
+pillow==12.1.0
+numpy==2.4.4
+meta-sam-parser==0.1.0

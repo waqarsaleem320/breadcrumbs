@@ -1,0 +1,47 @@
+[
+ {
+  "place": "",
+  "confidence": 0.0,
+  "clue": "wooden park bench beside concrete culvert",
+  "noun": "bench",
+  "box_2d": null,
+  "checked": true,
+  "point": null
+ },
+ {
+  "place": "",
+  "confidence": 0.0,
+  "clue": "leaf-covered forest trail with no signs logos or landmarks",
+  "noun": "trail",
+  "box_2d": null,
+  "checked": true,
+  "point": null
+ },
+ {
+  "place": "",
+  "confidence": 0.0,
+  "clue": "partial sign with letters VAI",
+  "noun": "sign",
+  "box_2d": null,
+  "checked": true,
+  "point": null
+ },
+ {
+  "place": "",
+  "confidence": 0.0,
+  "clue": "small white traffic sign beside sidewalk on right",
+  "noun": "sign",
+  "box_2d": null,
+  "checked": true,
+  "point": null
+ },
+ {
+  "place": "",
+  "confidence": 0.0,
+  "clue": "brick arched tunnel opening onto wooded trail with no signage",
+  "noun": "tunnel",
+  "box_2d": null,
+  "checked": true,
+  "point": null
+ }
+]

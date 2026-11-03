@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Post composer test page</title>
+<style>
+  body { margin: 0; font: 15px/1.5 system-ui, sans-serif; background: #f4f5f7; color: #1f2933; }
+  .card { max-width: 520px; margin: 60px auto; background: #fff; border-radius: 16px; padding: 24px;
+    box-shadow: 0 10px 30px -18px rgba(0,0,0,.35); }
+  h1 { font-size: 20px; margin: 0 0 4px; } p { color: #616e7c; margin: 0 0 16px; }
+  label { display: inline-block; padding: 10px 16px; border-radius: 10px; background: #1f2933; color: #fff; cursor: pointer; font-weight: 600; }
+  input { position: absolute; left: -9999px; }
+  img { display: block; width: 100%; margin-top: 16px; border-radius: 12px; }
+  textarea { width: 100%; box-sizing: border-box; margin-top: 14px; border: 1px solid #d9e2ec; border-radius: 10px; padding: 10px; font: inherit; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>New post</h1>
+  <p>A neutral test page for the Breadcrumbs extension. It behaves like any post composer with a photo picker.</p>
+  <label for="photo">Select photo</label>
+  <input id="photo" type="file" accept="image/*">
+  <img id="preview" alt="Selected photo preview" hidden>
+  <textarea rows="2" placeholder="Write a caption…"></textarea>
+</div>
+<script>
+  document.getElementById("photo").addEventListener("change", (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+    const img = document.getElementById("preview");
+    img.src = URL.createObjectURL(file);
+    img.hidden = false;
+    img.dataset.name = file.name;
+  });
+</script>
+</body>
+</html>
