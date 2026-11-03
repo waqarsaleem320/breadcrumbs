@@ -60,7 +60,7 @@ def show_tipping(rows: list[dict], images: list[Image.Image]) -> None:
             if first["posts"] < k:
                 detail += f" Post {first['posts']} alone already named {first['area']}."
             elif k > 1:
-                detail += f" Before post {k}, the attacker found nothing."
+                detail += f" Before post {k}, the attacker could not name an area with confidence."
         else:
             title = f"Post {k} is where you became findable"
             detail = f"That post alone pointed to {tipping['area']}."
