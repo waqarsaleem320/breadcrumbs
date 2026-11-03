@@ -2,7 +2,7 @@
 
 **Breadcrumbs is a privacy red team for your own photos.** An attacker agent reads your feed the way a stranger would, finds the post where you became findable, and a defender agent breaks the pattern with as little change as it can.
 
-**[Watch the 3-minute video](https://youtu.be/BSJ22aaaUpY)**
+**[Try the live demo](https://waqarsaleem320.github.io/breadcrumbs/)** (runs the saved sample right in your browser; checking your own photos needs the full app, see *Run it*) · **[Watch the 3-minute video](https://youtu.be/BSJ22aaaUpY)**
 
 Built for the Meta Global AI Developer Hackathon 2026 (Indie track, theme: *Build for Your World*) with **Muse Spark** and **SAM 3.1** from the Meta Model API.
 
@@ -142,6 +142,8 @@ streamlit run app.py
 ```
 
 Then click **See it on sample photos**. The sample needs no API key; your own photos do.
+
+The live demo is `index.html`: the same app running in the browser with [stlite](https://github.com/whitphx/stlite), built by `python web/build_page.py`. API calls are switched off there.
 
 Tests: `python tests/test_core.py`
 
