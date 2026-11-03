@@ -1,4 +1,5 @@
 """Shared Meta API settings."""
+import os
 from pathlib import Path
 
 BASE_URL = "https://api.meta.ai/v1"
@@ -8,10 +9,12 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def load_key() -> str:
-    """Return MODEL_API_KEY from the project .env file."""
+    """Return MODEL_API_KEY from the environment (hosted apps) or the project .env file."""
+    if os.environ.get("MODEL_API_KEY"):
+        return os.environ["MODEL_API_KEY"].strip()
     env = ROOT / ".env"
     if not env.exists():
-        raise RuntimeError("No .env file: add MODEL_API_KEY=... to run live checks. The sample works without it.")
+        raise RuntimeError("No API key: set MODEL_API_KEY to run live checks. The sample works without it.")
     for line in env.read_text(encoding="utf-8-sig", errors="replace").replace("\x00", "").splitlines():
         if line.startswith("MODEL_API_KEY="):
             return line.split("=", 1)[1].strip().strip("\"'")
