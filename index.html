@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Breadcrumbs: live demo</title>
+<link rel="icon" href="assets/logo.png">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.0/build/stlite.css">
+<style>
+  body { margin: 0; background: #eef1ee; font-family: system-ui, sans-serif; color: #13243a; }
+  #loading { max-width: 640px; margin: 18vh auto; padding: 0 16px; text-align: center; }
+  #loading img { width: 72px; height: 72px; }
+  #loading p { color: #56677a; line-height: 1.5; }
+</style>
+</head>
+<body>
+<div id="loading">
+  <img src="assets/logo.png" alt="">
+  <h1>Breadcrumbs</h1>
+  <p>Loading the demo in your browser. The first visit takes about 20 to 40 seconds while Python starts up.
+  It runs the saved sample; checking your own photos needs the full app (see the README).</p>
+</div>
+<div id="root"></div>
+<script type="module">
+  import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.0/build/stlite.js";
+  const options = {
+ "entrypoint": "app.py",
+ "requirements": [
+  "pydeck",
+  "requests"
+ ],
+ "files": {
+  "app.py": {
+   "url": "app.py"
+  },
+  "assets/logo.png": {
+   "url": "assets/logo.png"
+  },
+  "assets/logo.svg": {
+   "url": "assets/logo.svg"
+  },
+  "breadcrumbs/__init__.py": {
+   "url": "breadcrumbs/__init__.py"
+  },
+  "breadcrumbs/agents.py": {
+   "url": "breadcrumbs/agents.py"
+  },
+  "breadcrumbs/config.py": {
+   "url": "breadcrumbs/config.py"
+  },
+  "breadcrumbs/geo.py": {
+   "url": "breadcrumbs/geo.py"
+  },
+  "breadcrumbs/importer.py": {
+   "url": "breadcrumbs/importer.py"
+  },
+  "breadcrumbs/sam.py": {
+   "url": "breadcrumbs/sam.py"
+  },
+  "breadcrumbs/spark.py": {
+   "url": "breadcrumbs/spark.py"
+  },
+  "breadcrumbs/theme.py": {
+   "url": "breadcrumbs/theme.py"
+  },
+  "breadcrumbs/tipping.py": {
+   "url": "breadcrumbs/tipping.py"
+  },
+  "breadcrumbs/views.py": {
+   "url": "breadcrumbs/views.py"
+  },
+  "demo/CREDITS.md": {
+   "url": "demo/CREDITS.md"
+  },
+  "demo/eval_results.json": {
+   "url": "demo/eval_results.json"
+  },
+  "demo/eval_tuning_set.json": {
+   "url": "demo/eval_tuning_set.json"
+  },
+  "demo/match/match.json": {
+   "url": "demo/match/match.json"
+  },
+  "demo/match/post3.jpg": {
+   "url": "demo/match/post3.jpg"
+  },
+  "demo/match/r1_post3.jpg": {
+   "url": "demo/match/r1_post3.jpg"
+  },
+  "demo/photos/post1.jpg": {
+   "url": "demo/photos/post1.jpg"
+  },
+  "demo/photos/post2.jpg": {
+   "url": "demo/photos/post2.jpg"
+  },
+  "demo/photos/post3.jpg": {
+   "url": "demo/photos/post3.jpg"
+  },
+  "demo/photos/post4.jpg": {
+   "url": "demo/photos/post4.jpg"
+  },
+  "demo/photos/post5.jpg": {
+   "url": "demo/photos/post5.jpg"
+  },
+  "demo/sample_result.json": {
+   "url": "demo/sample_result.json"
+  },
+  "demo/tipping.json": {
+   "url": "demo/tipping.json"
+  },
+  "openai/__init__.py": {
+   "url": "web/stubs/openai/__init__.py"
+  },
+  "meta_sam_parser/__init__.py": {
+   "url": "web/stubs/meta_sam_parser/__init__.py"
+  }
+ },
+ "streamlitConfig": {
+  "theme.base": "light",
+  "theme.primaryColor": "#1d7a72",
+  "theme.backgroundColor": "#eef1ee",
+  "theme.secondaryBackgroundColor": "#ffffff",
+  "theme.textColor": "#13243a",
+  "client.toolbarMode": "minimal"
+ }
+};
+  mount(options, document.getElementById("root"));
+  new MutationObserver((_, observer) => {
+    if (document.querySelector("#root .stApp, #root [data-testid='stAppViewContainer']")) {
+      document.getElementById("loading").remove();
+      observer.disconnect();
+    }
+  }).observe(document.getElementById("root"), { childList: true, subtree: true });
+</script>
+</body>
+</html>
